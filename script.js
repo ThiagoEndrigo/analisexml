@@ -1,5 +1,3 @@
-// script.js
-
 document.getElementById('xmlForm').addEventListener('submit', function (e) {
     e.preventDefault();
 
